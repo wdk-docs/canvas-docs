@@ -1,4 +1,8 @@
+> 以下内容由bing discover-chat 总结整理的
+
 ## Canvas 开源框架推荐
+
+根据 web 搜索结果，这几个框架的综合评分最高的是 Paper.js，它在 GitHub 上有 11.8k stars，并且在多个网站上都得到了好评和推荐123。Paper.js 是一款开源的矢量图形脚本框架，基于 HTML5 Canvas 开发，提供清晰的场景图、DOM 和大量强大的功能用来创建各种向量图和贝塞尔曲线。
 
 - [SpriteJS](https://github.com/spritejs/spritejs)(**5.2k stars**)：一款由 360 奇舞团开源，月影大大亲自操刀的跨终端 canvas 绘图框架，可以基于 canvas 快速绘制结构化 UI、动画和交互效果，并发布到任何拥有 canvas 的平台。
 - [Konva](https://github.com/konvajs/konva)(**7.9k stars**)：一款基于 canvas 的可视化图形编辑框架，可以让你像操作 Dom 一样操作 Canvas 元素，集成了多数 dom 事件以及动画。
